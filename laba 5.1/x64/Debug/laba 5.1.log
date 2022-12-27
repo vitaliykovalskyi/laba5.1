@@ -1,0 +1,2 @@
+﻿  laba 5.1.cpp
+C:\Users\User\source\repos\laba 5.1\laba 5.1\laba 5.1.cpp(8,8): error C3874: return type of 'main' should be 'int' instead of 'double'
